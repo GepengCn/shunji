@@ -1,0 +1,5 @@
+site_name: 瞬记
+theme:
+  name: material
+nav:
+    - 隐私政策: index.md
