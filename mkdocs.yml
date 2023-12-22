@@ -3,3 +3,4 @@ theme:
   name: material
 nav:
     - 隐私政策: index.md
+    - 技术支持: tech.md
